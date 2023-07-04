@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\yufu\Desync\DemonSlayer\OC\Sora_Hinageshi\Body"
+	$alphatest 1
+	$nocull 1
+	"$lightwarptexture" "models\yufu\Desync\DemonSlayer\OC\Sora_Hinageshi\toon"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\yufu\Desync\DemonSlayer\OC\Sora_Hinageshi\head_FaceBrow"
+	$alphatest 1
+	$nocull 1
+
+}
